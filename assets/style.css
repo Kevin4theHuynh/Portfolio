@@ -28,7 +28,7 @@ header nav {
  
 section {
     margin-bottom: 20px;
-    height: 150px;
+    height: 250px;
     padding: 25px;
     background-color: coral;
 }
@@ -37,4 +37,8 @@ section {
     float: right;
     margin-left: 25px;
     max-height: 100px;
+}
+
+p {
+    line-height: 32px;
 }
