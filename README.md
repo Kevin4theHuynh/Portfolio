@@ -7,3 +7,4 @@ A portfolio showing infomation about myself, projects that i have worked on and 
 
 # Demon
 ![PortfolioDemo](./images/PortfolioDemo.jpeg)
+Live Link: https://kevin4thehuynh.github.io/Portfolio/
