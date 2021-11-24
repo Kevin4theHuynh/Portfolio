@@ -42,3 +42,13 @@ section {
 p {
     line-height: 32px;
 }
+
+.column {
+    float: left;
+    
+}
+
+.row {
+    display: table;
+    width: 33%;
+}
